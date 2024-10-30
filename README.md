@@ -27,3 +27,10 @@ El bot deriva a las conversaciones al asesor correcto
 - Certificado world class por el service desk institute
 - Clientes en toda latinoamerica
 - AsisteClick se encarga de todo
+
+## Idiomas
+
+1. Español
+2. Ingles
+3. Portugués
+
